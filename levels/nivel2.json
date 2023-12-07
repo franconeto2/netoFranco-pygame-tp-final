@@ -1,0 +1,52 @@
+{
+    "name": "Nivel 2",
+    "width": 32,
+    "height": 10,
+    "background-color": [130, 182, 255],
+    "background-img": "C:\\Users\\franc\\Downloads\\faltano\\assets\\backgrounds\\pngtree-hd-wallpapers-blue-sky-clouds-image_13271926.jpg",
+    "background-position": "top",
+    "background-repeat-x": 1,
+    "background-fill-y": 1,
+    "scenery-img": "C:\\Users\\franc\\Downloads\\faltano\\assets\\backgrounds\\BlackForest-Germany-GettyImages-147180370.png",
+    "scenery-repeat-x": 1,
+    "scenery-fill-y": 1,
+    "music": "C:\\Users\\franc\\Downloads\\faltano\\sounds\\Msica de Super Mario World  Ttulo.mp3",
+    "start": [1, 8],
+    "gravity": 1.0,
+    "terminal-velocity": 32,
+    "blocks": [[0, 9, "BL"], [1, 9, "BL"], [2, 9, "BL"], [3, 9, "BL"], [4, 9, "BL"],
+               [5, 9, "BL"], [6, 9, "BL"], [7, 9, "BL"], [8, 9, "BL"], [9, 9, "BL"],
+                         [10, 9, "BL"], [11, 9, "BL"], [12, 9, "BL"], [13, 9, "BL"], [14, 9, "BL"],
+                         [15, 9, "BL"], [16, 9, "BL"], [17, 9, "BL"], [18, 9, "BL"], [19, 9, "BL"],
+                         [20, 9, "BL"], [21, 9, "BL"], [22, 9, "BL"], [23, 9, "BL"], [24, 9, "BL"],
+                          [25, 9, "BL"], [26, 9, "BL"], [27, 9, "BL"], [28, 9, "BL"], [29, 9, "BL"],
+                         [30, 9, "BL"], [31, 9, "BL"],
+
+                         [0, 8, "BL"],
+
+                         [3, 7, "BL"], [4, 7, "BL"], [5, 7, "BL"],
+
+                         [0, 5, "BL"],
+
+                         [4, 3, "BL"], [5, 3, "BL"], [6, 3, "BL"],
+
+                         [10, 1, "BL"], [11, 1, "BL"], [12, 1, "BL"],
+
+                         [13, 6, "BL"], [14, 6, "BL"], [15, 6, "BL"],
+
+                         [13, 8, "BL"], [14, 8, "BL"], [15, 8, "BL"],
+
+                         [13, 7, "BL"], [14, 7, "BL"], [15, 7, "BL"],
+
+                         [14, 5, "BL"], [15, 5, "BL"],
+
+                         [21, 8, "BL"]],
+    "octavios": [],
+    "pajaros": [],
+    "conejos": [],
+    "coins": [[0, 7]],
+    "soles": [[4, 6], [4, 2], [15, 4]],
+    "traps": [[-0.5, 4], [8, 8], [9, 8], [10, 8]],
+    "hearts": [[6, 2]],
+    "flag": [[30, 5], [30, 6], [30, 7], [30, 8]]
+}
